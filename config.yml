@@ -39,7 +39,7 @@ params:
   keywords: [James Hach, Blog, Portfolio, PaperMod]
   author: James Hach
   # author: ["Me", "You"] # multiple authors
-  images: ["jhlogo.png"]
+  images: ["jhcrop.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -63,14 +63,14 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "jhlogo.png"
+    favicon: "jhcrop.png"
     favicon16x16: "jh16.png"
     favicon32x32: "jh32.png"
     apple_touch_icon: "jh152.png"
     safari_pinned_tab: "jh152.png"
 
   label:
-    text: "Home"
+    text: " "
     icon: /jh152.png
     iconHeight: 35
 

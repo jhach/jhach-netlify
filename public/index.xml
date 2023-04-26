@@ -6,8 +6,8 @@
     <description>Recent content on The James Hach Blog</description>
     <image>
       <title>The James Hach Blog</title>
-      <url>http://example.org/jhlogo.png</url>
-      <link>http://example.org/jhlogo.png</link>
+      <url>http://example.org/jhcrop.png</url>
+      <link>http://example.org/jhcrop.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
