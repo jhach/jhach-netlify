@@ -3,8 +3,6 @@ languageCode: "en-us"
 title: The James Hach Blog
 theme: PaperMod
 
-enableGitInfo: true
-
 frontmatter:
   date:
   - date
@@ -22,6 +20,7 @@ frontmatter:
   - date
 
 enableRobotsTXT: true
+enableGitInfo: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
