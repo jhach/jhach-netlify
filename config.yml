@@ -1,4 +1,4 @@
-baseURL: "http://example.org/"
+baseURL: "https://example.org/"
 languageCode: "en-us"
 title: The James Hach Blog
 theme: PaperMod
@@ -36,7 +36,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: The James Hach Blog
   description: "I'm James Hach. I developed this space so that you can learn more about me."
-  keywords: [James Hach, Blog, Portfolio, PaperMod]
+  keywords: [James Hach, Blog, Portfolio, Product Manager, PaperMod]
   author: James Hach
   # author: ["Me", "You"] # multiple authors
   images: ["jhcrop.png"]
@@ -52,18 +52,18 @@ params:
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
-  disableSpecial1stPost: false
+  disableSpecial1stPost: true
   disableScrollToTop: false
   comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: false
+  showtoc: true
   tocopen: false
 
   assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    favicon: "jhcrop.png"
+    disableHLJS: true # to disable highlight.js
+    disableFingerprinting: true
+    favicon: "jh16.png"
     favicon16x16: "jh16.png"
     favicon32x32: "jh32.png"
     apple_touch_icon: "jh152.png"
@@ -71,7 +71,7 @@ params:
 
   label:
     text: " "
-    icon: /jh152.png
+    icon: jh152.png
     iconHeight: 35
 
   # profile-mode
@@ -79,7 +79,7 @@ params:
     enabled: false # needs to be explicitly set
     title: ExampleSite
     subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    imageUrl: "jhcrop.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
