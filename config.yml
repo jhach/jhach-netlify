@@ -24,7 +24,7 @@ enableGitInfo: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-gtm_id: GTM-PBMD4W4
+gtm_id: "GTM-PBMD4W4"
 gtm_datalayer: "basic"
 # googleAnalytics: UA-123-45
 
