@@ -11,6 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://jameshach.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://jameshach.netlify.app/about/</link>
+      <pubDate>Fri, 28 Apr 2023 16:56:29 +1000</pubDate>
+      
+      <guid>https://jameshach.netlify.app/about/</guid>
+      <description>Hola!
+My name is James Hach and I have been a Product Manager since 2015. To me, it&amp;rsquo;s one of the most fulfilling role in tech. When I&amp;rsquo;m not working, I like to develop websites (like this one) in React+Gatsby, learn the Ukulele, hip hop dance, run, and follow the WWE and anything Seattle sports related.
+Certifications Certified Scrum Product Owner® Certified Scrum Product Owner Google Google Analytics for Beginners Advanced Google Analytics Google Analytics for Power Users Google Tag Manager Fundamentals Getting Started With Google Analytics 360 ClickUp ClickUp Novice Certificate You can find me on LinkedIn GitHub </description>
+    </item>
+    
     
   </channel>
 </rss>
