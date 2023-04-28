@@ -24,8 +24,7 @@ enableGitInfo: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-gtm_id: "GTM-PBMD4W4"
-gtm_datalayer: "basic"
+
 # googleAnalytics: UA-123-45
 
 minify:
@@ -130,6 +129,8 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+    gtm_id: "GTM-PBMD4W4"
+    gtm_datalayer: "basic" 
 menu:
   main:
     - identifier: archives
