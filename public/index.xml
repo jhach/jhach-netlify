@@ -12,6 +12,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://jameshach.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Privacy Policy</title>
+      <link>https://jameshach.netlify.app/privacy-policy/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jameshach.netlify.app/privacy-policy/</guid>
+      <description>Privacy policy for jameshach.netlify.app. Last updated April 11, 2023</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://jameshach.netlify.app/about/</link>
       <pubDate>Fri, 28 Apr 2023 16:56:29 +1000</pubDate>
