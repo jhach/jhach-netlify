@@ -59,8 +59,6 @@ params:
   tocopen: false
   gtm_id: GTM-PBMD4W4
   gtm_datalayer: basic
-  gtm_ga: true
-
 
   assets:
     disableHLJS: true # to disable highlight.js
