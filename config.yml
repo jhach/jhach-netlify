@@ -25,7 +25,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: G-S7F5NSNW1V
+# googleAnalytics: G-S7F5NSNW1V
 
 minify:
   disableXML: true
@@ -57,6 +57,10 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: false
+  gtm_id: GTM-PBMD4W4
+  gtm_datalayer: basic
+  gtm_ga: true
+
 
   assets:
     disableHLJS: true # to disable highlight.js
