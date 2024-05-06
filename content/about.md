@@ -55,7 +55,7 @@ My name is James Hach and I have been a Product Manager since 2015. To me, it's 
 - [ClickUp Novice Certificate](https://verify.skilljar.com/c/hibe2b4cz848)
 
 ### Projects
-- [bumpxfeed.com | Pro wrestling Blog](https://bumpxfeed.com)
+- [bumpxfeed.com | Pro wrestling blog](https://bumpxfeed.com)
 
 ## You can find me on
 - [LinkedIn](https://www.linkedin.com/in/jameshach)
