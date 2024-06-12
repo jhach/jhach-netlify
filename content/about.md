@@ -14,7 +14,7 @@ draft: false
 hidemeta: false
 comments: false
 description: ""
-canonicalURL: "https://jameshach.netlify.app/about/"
+# canonicalURL: "https://jameshach.netlify.app/about/"
 disableHLJS: true # to disable highlightjs
 disableShare: true
 hideSummary: false
