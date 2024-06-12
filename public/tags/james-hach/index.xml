@@ -1,30 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>The James Hach Blog</title>
-    <link>https://jameshach.netlify.app/</link>
-    <description>Recent content on The James Hach Blog</description>
+    <title>James Hach on The James Hach Blog</title>
+    <link>http://localhost:1313/tags/james-hach/</link>
+    <description>Recent content in James Hach on The James Hach Blog</description>
     <image>
       <title>The James Hach Blog</title>
-      <url>https://jameshach.netlify.app/jhcrop.png</url>
-      <link>https://jameshach.netlify.app/jhcrop.png</link>
+      <url>http://localhost:1313/jhcrop.png</url>
+      <link>http://localhost:1313/jhcrop.png</link>
     </image>
     <generator>Hugo -- 0.123.3</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Jun 2024 13:31:31 +1000</lastBuildDate>
-    <atom:link href="https://jameshach.netlify.app/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://jameshach.netlify.app/privacy-policy/</link>
-      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://jameshach.netlify.app/privacy-policy/</guid>
-      <description>Privacy policy for jameshach.netlify.app. Last updated April 11, 2023</description>
-    </item>
+    <atom:link href="http://localhost:1313/tags/james-hach/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://jameshach.netlify.app/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Fri, 28 Apr 2023 16:56:29 +1000</pubDate>
-      <guid>https://jameshach.netlify.app/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>Welcome to my professional corner of the web! My name is James Hach, and I am a seasoned Product Manager with over seven years of experience in driving data-driven strategies and delivering impactful products. My career has been dedicated to aligning strategic goals, fostering cross-functional collaboration, and meeting tight deadlines in fast-paced environments. I pride myself on crafting customer-centric solutions and maintaining transparent, persuasive communication with stakeholders. I am ready to bring innovation and leadership to your team.</description>
     </item>
   </channel>
